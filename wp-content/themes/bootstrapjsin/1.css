@@ -1,0 +1,267 @@
+/*body{
+    background: #f8f9fa;
+}
+
+#slogan{
+    text-align: center;
+    padding: 30px 0;
+    border-top: #ddd solid 2px;
+}
+
+.navbar .navbar-nav .nav-item a.nav-link{
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-weight: 600;
+}
+.navbar .navbar-nav .nav-item a:hover{
+    background: #fff;
+}
+*/
+/*HOVER NAVBAR*/
+/*.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+.dropdown-item:hover>.dropdown-menu {
+    display: block;
+}
+.dropdown-menu{
+    margin: 0;
+}
+.dropdown-menu a.dropdown-item{
+    color: #666;
+}
+.dropdown-menu a.dropdown-item:hover{
+    color: #333;
+}*/
+/*ul li{*/
+    /*list-style-type:none;*/
+    /*display: inline;*/
+/*}*/
+
+/*.navbar-nav .nav-link{display:inline-block;}*/
+/*.ml-auto {display:inline-block!important;}*/
+/*HOVER NAVBAR END*/
+/*
+.dropdown>.dropdown-toggle:active {
+    pointer-events: none;
+}
+
+#content .card, #slider{
+    margin-bottom: 40px;
+}
+
+#content .underline{
+    border-bottom: #ddd solid 2px;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+}
+
+#content .blue{
+    color: #0091c6;
+}
+
+#content .green{
+    color: #1b7203;
+}
+
+#content .orange{
+    color: #eb7200;
+}
+
+#content .red{
+    color: #cf0401;
+}
+
+#content .news img{
+    width: 80px;
+    height: 80px;
+}
+
+#content .news-detail img{
+    margin: 15px auto;
+}
+
+#content .activities img{
+    width: 60px;
+    height: 60px;
+}
+
+#content .file-download a{
+    margin-bottom: 5px;
+    border-color: #ddd;
+}
+
+#content .notice{
+    margin: 45px 0 220px 0;
+}
+*/
+/*
+#carousel {
+    width:100%;
+    height: 220px;
+    margin: auto;
+    display: relative;
+}*/
+/* #carousel img {
+    display: hidden; 
+    cursor: pointer; 
+} */
+/*
+.breadcrumb {
+    padding: 1px 15px 5px 20px !important;
+}
+#content .card {
+    margin-bottom: 40px;
+
+   }
+#banner {
+    border-top: #ddd solid 2px;
+    padding: 15px 0 0 0;
+}*/
+.Mycopyright
+{
+	font-size:0.6rem;
+}
+.navbar-brand 
+{
+/* 	margin-left:210px; */
+	padding-top: 5px;
+}
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+.dropdown-item:hover>.dropdown-menu {
+    display: block;
+}
+
+/*.dropdown-menu a.dropdown-item{*/
+    /*color: #666;*/
+    /*font-size: 100%;*/
+/*}*/
+.dropdown-menu a.dropdown-item:hover{
+    color: #dd4b39;
+}
+a, a:visited, a:hover{
+	color: #4F4F4F !important;
+	text-decoration:none;
+}
+.bxslider.category-spotlight li.news .info .title a {
+    color: #fff !important;
+    font-size: 24px !important;
+    text-transform: uppercase !important;
+}
+
+#banner img {
+      width: 100%;
+}
+ #products h3 {
+    text-align: center;
+}
+ #products p {
+    text-align: center;
+}
+#products .section-subtitle {
+    text-align: center !important;
+    margin-bottom: 2rem !important;
+}
+
+#products .section-subtitle hr {
+    border-top: 1px solid #d3d3d3;
+    max-width: 400px;
+    margin: 2rem auto;
+}
+ #process h3 {
+    text-align:center;
+}
+ #process p {
+    text-align:center;
+}
+#lsc-csrd {
+    background-color: #89C7DE;
+}
+#lsc-csrd #functions ul {
+    margin: 0;
+    background-color: rgba(255,255,255,0.9);
+}
+ #lsc-csrd #functions li {
+    padding: 2rem;
+    text-align: justify;
+    border-right: 1px solid rgba(137, 198, 222, 0.28);
+    min-height: 280px;
+}
+ #lsc-csrd #functions li h6 {
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    margin-bottom: 2rem;
+    border-bottom: 2px solid #89C7DE;
+    font-size: 0.9rem;
+}
+#sustainability-strategy
+{
+	background-color: #d3eef4;
+}
+#sustainability-strategy #results ul {
+    margin: 0 ;
+    background-color: rgba(255,255,255,0.9) ;
+}
+
+#sustainability-strategy #results li{
+    padding: 2rem;
+    text-align: justify;
+    border-right: 1px solid rgba(137, 198, 222, 0.28);
+    min-height: 280px;
+}
+
+#sustainability-strategy #results li h6 {
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    margin-bottom: 2rem;
+    border-bottom: 2px solid #89C7DE;
+    font-size: 0.9rem;
+}
+#commitment {
+    text-align: center;
+    background-color: #89C7DE;
+}
+
+#commitment .quote {
+    background: url(../img/ico-triangle.png) no-repeat bottom center;
+    padding-bottom: 30px;
+}
+
+ .signature {
+    text-align: center;
+    font-size: 1.7rem;
+    margin: 1.5rem 0;
+    color: #fff;
+}
+
+#principles {
+    text-align: center;
+    background-color: #9eca8a;
+}
+ .signature span {
+    display: block;
+    font-size: 0.8rem;
+}
+.portrait {
+    text-align: center;
+    overflow: hidden;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    display: inline-block;
+}
+#training-policies {
+    background-color: #89C7DE;
+}
+#career-opportunity
+{
+	background-color:rgba(82, 83, 85, 0.03);
+}
+ .wage-benefits {
+    background-color: #88B972;
+    background-clip: content-box;
+}
